@@ -9,8 +9,10 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/HashType" />
+            <option value="$PROJECT_DIR$/HashType/SortType" />
             <option value="$PROJECT_DIR$/ListType" />
             <option value="$PROJECT_DIR$/SetType" />
+            <option value="$PROJECT_DIR$/SortType" />
             <option value="$PROJECT_DIR$/StringType" />
           </set>
         </option>

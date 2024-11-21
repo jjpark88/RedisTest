@@ -3,4 +3,7 @@ include 'StringType'
 include 'ListType'
 include 'SetType'
 include 'HashType'
+include 'HashType:SortType'
+findProject(':HashType:SortType')?.name = 'SortType'
+include 'SortType'
 
