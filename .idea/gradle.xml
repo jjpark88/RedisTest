@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/ListType" />
+            <option value="$PROJECT_DIR$/SetType" />
             <option value="$PROJECT_DIR$/StringType" />
           </set>
         </option>
