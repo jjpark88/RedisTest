@@ -7,4 +7,5 @@ include 'HashType:SortType'
 findProject(':HashType:SortType')?.name = 'SortType'
 include 'SortType'
 include 'GeoType'
+include 'BitMapType'
 
