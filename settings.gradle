@@ -2,4 +2,5 @@ rootProject.name = 'RedisTest'
 include 'StringType'
 include 'ListType'
 include 'SetType'
+include 'HashType'
 
