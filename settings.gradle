@@ -8,4 +8,5 @@ findProject(':HashType:SortType')?.name = 'SortType'
 include 'SortType'
 include 'GeoType'
 include 'BitMapType'
+include 'cacheTest'
 
