@@ -9,4 +9,5 @@ include 'SortType'
 include 'GeoType'
 include 'BitMapType'
 include 'cacheTest'
+include 'RedisTemplete'
 
