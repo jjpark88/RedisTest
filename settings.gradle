@@ -10,4 +10,5 @@ include 'GeoType'
 include 'BitMapType'
 include 'cacheTest'
 include 'RedisTemplete'
+include 'RedisSession'
 
